@@ -2,7 +2,7 @@
 
 software engineer and occasional blogger
 
-grew up writing world of warcraft addons in lua, but my neovim dotfiles are still vimscript to this day.
+grew up writing world of warcraft addons in lua, ~but my neovim dotfiles are still vimscript to this day~ lua migration complete
 
 i still think gans are the coolest thing that came out of the deep learning field
 
